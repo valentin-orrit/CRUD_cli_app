@@ -6,5 +6,5 @@ export default function dbFileChek() {
         console.log('Database is Empty!')
         exit(1)
     }
+    // console.log('???')
 }
-
